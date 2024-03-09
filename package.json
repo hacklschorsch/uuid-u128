@@ -1,0 +1,21 @@
+{
+  "name": "zkpid-zpass-uuid",
+  "version": "0.1.0",
+  "description": "UUIDv4 to/from Aleo u128",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "lint": "npx eslint --fix *.js *.mjs",
+    "test": "node --test"
+  },
+  "contributors": [
+    "Florian Sesser <florian@leastauthority.com>"
+  ],
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+  }
+}
