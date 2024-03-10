@@ -1,7 +1,7 @@
 {
-  "name": "aleo-uuid",
+  "name": "uuid-u128",
   "version": "1.0.0",
-  "description": "En/decode UUIDv4 as Aleo u128",
+  "description": "En/decode UUIDv4 as u128 (as used by Aleo, for example)",
   "main": "index.js",
   "type": "module",
   "scripts": {
