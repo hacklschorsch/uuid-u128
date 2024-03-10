@@ -1,7 +1,7 @@
 {
-  "name": "zkpid-zpass-uuid",
-  "version": "0.1.0",
-  "description": "UUIDv4 to/from Aleo u128",
+  "name": "aleo-uuid",
+  "version": "1.0.0",
+  "description": "En/decode UUIDv4 as Aleo u128",
   "main": "index.js",
   "type": "module",
   "scripts": {
