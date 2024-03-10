@@ -1,3 +1,4 @@
+import { Buffer } from 'node:buffer'
 import * as uuid from 'uuid'
 
 function uuidv4StrToU128(uuidStr) {
